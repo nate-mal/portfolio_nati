@@ -194,6 +194,10 @@ ul.skills {
 .icon{
   height: 20px;
 }
+.mid-icon{
+  width: 50px;
+}
+
 #hobbies li:hover img{
   animation-name: slow-anim;
   animation-duration: 1s;
